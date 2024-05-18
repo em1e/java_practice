@@ -16,7 +16,7 @@ There are more topics comming soon... (give me a bit okay D:)
 ***
 
 > [!NOTE]
-> If you wish to edit the file and and push the changes into your own github, then it is highly suggested to follow [the github execises](https://github.com/em1e/java_practice/blob/main/subjects/github.md) instead of following the steps below.
+> If you wish to edit the file and push the changes into your own github, then it is highly suggested to follow [the github execises](https://github.com/em1e/java_practice/blob/main/subjects/github.md) instead of the steps below.
 
 ## Getting started
 
@@ -33,6 +33,7 @@ git clone https://github.com/em1e/java_practice.git
 cd java_practice
 ```
 
+### DONE!
 Woo!! Now the repository/folder should be downloaded, and you can start working on the execises. Below you can find some helpful guides on how to do things code related, if you have any questions then dm me (mie) on discord.
 
 ***
