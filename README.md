@@ -7,8 +7,8 @@ This is a cute lil repo for those in QA that actually want to improve and get go
 
 `/subjects` is a folder for all instructions for each of the execises. Follow the list below to in which order you complete the exercises:
 - [ ] dev-setup.md
-- [ ] github.md
-- [ ] java-1.md
+- [X] github.md
+- [X] java-1.md (not fully done)
 - [ ] java-2.md
 - [ ] java-3.md
 There are more topics comming soon... (give me a bit okay D:)
