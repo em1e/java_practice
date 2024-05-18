@@ -14,7 +14,7 @@ This is a cute lil repo for those in QA that actually want to improve and get go
 There are more topics comming soon... (give me a bit okay D:)
 
 > [!NOTE]
-> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow (the github execises)[https://github.com/em1e/java_practice/blob/main/subjects/github.md] instead of following the steps in "getting started".
+> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow [the github execises](https://github.com/em1e/java_practice/blob/main/subjects/github.md) instead of following the steps in "getting started".
 
 <details>
 <summary>Getting started</summary>
@@ -40,7 +40,7 @@ Now the repository/folder should be downloaded, and you can start working on the
 ## What are they?
 GitHub is a developer platform that allows developers to create, store, manage and share their code. While Git is a distributed version control system that tracks versions of files.
 
-(Watch this and ask questions if something is unclear)[https://www.youtube.com/watch?v=DVRQoVRzMIY]. 
+[Watch this and ask questions if something is unclear](https://www.youtube.com/watch?v=DVRQoVRzMIY). 
 
 </details><details>
 
@@ -62,7 +62,7 @@ A terminal is simply a text-based interface to the computer. In a terminal, you 
 | cp SOURCE TARGET	| Copy SOURCE to TARGET | `cp new_folder/instructions.txt another_folder/.` |
 | rm TARGET	| remove TARGET | `rm new_folder/instructions.txt` |
 
-If you wish to practice terminal commands, then start with exercises in (`subjects/dev-setup.md`)[https://github.com/em1e/java_practice/blob/main/subjects/dev-setup.md] and (`subjects/github.md`)[https://github.com/em1e/java_practice/blob/main/subjects/github.md]. Remember that google is your best friend, if unsure then ask anotehr QA member.
+If you wish to practice terminal commands, then start with exercises in [`subjects/dev-setup.md`](https://github.com/em1e/java_practice/blob/main/subjects/dev-setup.md) and [`subjects/github.md`](https://github.com/em1e/java_practice/blob/main/subjects/github.md). Remember that google is your best friend, if unsure then ask anotehr QA member.
 
 </details><details>
 
@@ -72,7 +72,7 @@ If you wish to practice terminal commands, then start with exercises in (`subjec
 
 There really isn't any requirements to learning how to code. It's just a bit of problem solving and logical thinking.
 
-Before you start the java exorcises it would be good to be familiar with the syntax first, or to refer back to any of the free resources online while working on them. There are ones like (w3schools)[https://www.w3schools.com/java/], (execism)[https://exercism.org/tracks/java], (codeacademy)[https://www.codecademy.com/catalog/language/java], (javatpoint)[https://www.javatpoint.com/java-tutorial], and so many more you could use.
+Before you start the java exorcises it would be good to be familiar with the syntax first, or to refer back to any of the free resources online while working on them. There are ones like [w3schools](https://www.w3schools.com/java/), [execism](https://exercism.org/tracks/java), [codeacademy](https://www.codecademy.com/catalog/language/java), [javatpoint](https://www.javatpoint.com/java-tutorial), and so many more you could use.
 
 </details>
 
