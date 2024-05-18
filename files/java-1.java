@@ -7,19 +7,19 @@ class Gorf {
 	boolean mieHere = true;
 	// feel free to add anything else you feel like could be added into this 
 
-	public static boolean isKidnapped(boolean jamesHere) {
+	boolean isKidnapped(boolean jamesHere) {
    		 // has james found it or not?
 	}
 
-	public static boolean isFound(boolean found) {
+	boolean isFound(boolean found) {
 		// has gorf been found yet
 	}
 
-	public static boolean mieSaving(boolean mieHere) {
+	boolean mieSaving(boolean mieHere) {
 		//  has mie tried saving gorf yet
 	}
 
-	public static String isJamesTheGorfSafe(boolean jamesHere, boolean found, boolean mieHere) {
+	String isJamesTheGorfSafe(boolean jamesHere, boolean found, boolean mieHere) {
 		if (isKidnapped(jamesHere) == true) {
 			// has it been found? else return "Gorf not found yet"
 			// has mie tried saving it? if yes then return "Gorf is dead"
@@ -45,16 +45,16 @@ class staff {
 	{Danny, Helper}, {Tato, Helper}, {Kiri, Helper}, {Thunder, Helper}, 
 	{Kio, Media}, {Auvrie, Media}, {Fortelling, Builder}};
 
-  	public static String canJoinStaff(String application) {
-    		// There are 4 different types of applications: staff, builder, media and qa. 
+	String canJoinStaff(String application) {
+    // There are 4 different types of applications: staff, builder, media and qa. 
 		// If application does not fall under any of these, then return "Not a position at violets"
 	}
 
-	public static int howManyStaff() {
+	int howManyStaff() {
 		// return the amount of staff members in StaffMembers
 	}
 
-	public static String isStaffMember(String playerName) {
+	String isStaffMember(String playerName) {
 		// make a loop that checks if playerName equals any of staffMembers[x][0],
 		// or any of the names in the 2d array
 
@@ -62,7 +62,7 @@ class staff {
 		// or make up your own return message!
 	}
 
-	public static String roleOf(String PlayerName) {
+	String roleOf(String PlayerName) {
 		// make a loop that checks if playerName equals any of staffMembers[x][0],
 		// or any of the names in the 2d array.
 		// if the player is a staff member then return their role, else return that they are a member.
