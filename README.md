@@ -13,11 +13,12 @@ This is a cute lil repo for those in QA that actually want to improve and get go
 - [ ] java-3.md
 There are more topics comming soon... (give me a bit okay D:)
 
+***
+
 > [!NOTE]
 > If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow [the github execises](https://github.com/em1e/java_practice/blob/main/subjects/github.md) instead of following the steps in "getting started".
 
-<details>
-<summary>Getting started</summary>
+## Getting started
 
 ### step 1. 
 Open Terminal. Google how to do that on your device.
@@ -34,11 +35,13 @@ cd java_practice
 
 Now the repository/folder should be downloaded, and you can start working on the execises. Below you can find some helpful guides on how to do things code related, if you have any questions, then dm me (mie) on discord.
 
-</details><details>
-<summary>What are git and github? and how to use them?</summary>
+***
+
+<details>
+<summary>What is git and github? and how to use them?</summary>
 
 ## What are they?
-GitHub is a developer platform that allows developers to create, store, manage and share their code. While Git is a distributed version control system that tracks versions of files.
+**GitHub** is a developer platform that allows developers to create, store, manage and share their code. While **Git** is a distributed version control system that tracks versions of files.
 
 [Watch this and ask questions if something is unclear](https://www.youtube.com/watch?v=DVRQoVRzMIY). 
 
