@@ -8,7 +8,7 @@ class Gorf {
 	// feel free to add anything else you feel like could be added into this 
 
 	public boolean isKidnapped(boolean jamesHere) {
-   		 // has james found and kidnapped it or not?
+		// has james found and kidnapped it or not?
 	}
 
 	public boolean isFound(boolean found) {
@@ -30,7 +30,7 @@ class Gorf {
 			// return "Gorf is already safe"
 		}
 	}
-	isJamesTheGorfSafe(jamesHere, found, mieHere);
+	return isJamesTheGorfSafe(jamesHere, found, mieHere);
 	// remember to call the correct functions
 }
 
@@ -46,7 +46,7 @@ class staff {
 	{Kio, Media}, {Auvrie, Media}, {Fortelling, Builder}};
 
 	public String canJoinStaff(String application) {
-    		// There are 4 different types of applications: staff, builder, media and qa. 
+		// There are 4 different types of applications: staff, builder, media and qa. 
 		// If application does not fall under any of these, then return "Not a position at violets"
 	}
 
