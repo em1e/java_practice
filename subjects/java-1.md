@@ -10,18 +10,7 @@ You can find the java file with the outlines at `../files/java-1.java`, so head 
 
 ***
 
-## Exercise 1: Staff member list
-
-Create a class with a few methods, each doing their own thing. Below you can read some of the tasks the class should do, they are also stated in the java file:
-
-- Print out how many helpers and mods there are on the staff team.
-- Print out how many many managers there are.
-- Print out a staff members name at x position on an array.
-- Able to find out what role a staff member has.
-
-***
-
-## Exercise 2: Can James the gorf be saved?
+## Exercise 1: Can James the gorf be saved?
 
 Create a class that returns a boolean to if james the gorf is alive or not. Below you can read some of the tasks the class should do, they are also stated in the java file:
 
@@ -30,5 +19,16 @@ Create a class that returns a boolean to if james the gorf is alive or not. Belo
 - Did mie try saving it? if yes, then dead
 
 and more.
+
+***
+
+## Exercise 2: Staff member list
+
+Create a class with a few methods, each doing their own thing. Below you can read some of the tasks the class should do, they are also stated in the java file:
+
+- Print out how many helpers and mods there are on the staff team.
+- Print out how many many managers there are.
+- Print out a staff members name at x position on an array.
+- Able to find out what role a staff member has.
 
 ***
