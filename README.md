@@ -20,11 +20,11 @@ There are more topics comming soon... (give me a bit okay D:)
 
 ## Getting started
 
-### step 1. 
-Open Terminal. Google how to do that on your device.
+### step 1. Open Terminal. 
+Google how to do that on your device.
 
-### step 2. 
-Navigate to the correct location or folder within the terminal, to where you want the java_practice folder to be at. Refer to "How to use terminal?" guide below for more information on how to do this. If unsure where it should be, then Desktop is alwasy a good choice.
+### step 2. Navigate inside your terminal to where you want to java_practice folder to be at.
+Refer to "How to use terminal?" guide below for more information on how to do this. If unsure where it should be, then Desktop is alwasy a good choice. This can be compleated using `cd`, `pwd`, and `ls`.
 
 ### step 3. 
 Run the following two commands in terminal:
