@@ -1,5 +1,5 @@
 
-# Exercise 0: Making a github account and links
+# Exercise 0: Making a github account and some handy resources 
 
 Open up [github](https://github.com/) on your browser and create a new account. There are some images below to help out.
 
