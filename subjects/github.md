@@ -1,12 +1,12 @@
 
-# Exercise 0: Making a github account and links
+# Exercise 0: Making a github account and some handy resources 
 
 Open up [github](https://github.com/) on your browser and create a new account. There are some images below to help out.
 
 ![home](https://github.com/em1e/java_practice/blob/main/images/github_home.png)
 ![new account creation](https://github.com/em1e/java_practice/blob/main/images/new_account.png)
 
-for the following execises some useful links include:
+Here are some useful links for the following execises:
 - [what are git and github?](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 - [oh shit git!](https://ohshitgit.com/)
 - [how git works?](https://www.atlassian.com/git)
@@ -44,7 +44,7 @@ cd my-first-repo
 You can write whatever you want into it, just write something.
 
 **step 4.** add, commit and push.
-Using the instructions in above and online, try to figure out how this is done and successfully push your local changes into your github repository online.
+Using the [instructions](https://www.youtube.com/watch?v=DVRQoVRzMIY) above and found online, try to figure out how this is done and successfully push your local changes into your github repository online. 
 
 ![local vs remote](https://github.com/em1e/java_practice/blob/main/images/Github-local-vs-remote.jpg)
 
