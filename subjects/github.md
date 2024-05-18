@@ -6,7 +6,7 @@ Open up [github](https://github.com/) on your browser and create a new account. 
 ![home](https://github.com/em1e/java_practice/blob/main/images/github_home.png)
 ![new account creation](https://github.com/em1e/java_practice/blob/main/images/new_account.png)
 
-for the following execises some useful links include:
+Here are some useful links for the following execises:
 - [what are git and github?](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 - [oh shit git!](https://ohshitgit.com/)
 - [how git works?](https://www.atlassian.com/git)
