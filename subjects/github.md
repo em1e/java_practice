@@ -27,11 +27,11 @@ Create an ssh key, and link it to your github. There is a step by step youtube t
 
 In this exercise you are supposed to create a repository and understand what git and github really are, and how to use them. It is highly sugegsted to complete the terminal exercises first, so that you have an understand on what it is and won't get overwhelmed.
 
-*step 1.* Create a repository called `my-first-repo` 
+**step 1.** Create a repository called `my-first-repo` 
 - make the repo public
 - add a readme.md file
 
-*step 2.* Clone the repo using the ssh tab
+**step 2.** Clone the repo using the ssh tab
 copy the link through
 ![ssh github](https://github.com/em1e/java_practice/blob/main/images/ssh.png)
 and run:
@@ -40,10 +40,10 @@ git clone <link>
 cd my-first-repo
 ```
 
-*step 3.* Create a .txt file or text file into the folder
+**step 3.** Create a .txt file or text file into the folder
 You can write whatever you want into it, just write something.
 
-*step 4.* add, commit and push.
+**step 4.** add, commit and push.
 Using the instructions in above and online, try to figure out how this is done and successfully push your local changes into your github repository online.
 
 ![local vs remote](https://github.com/em1e/java_practice/blob/main/images/Github-local-vs-remote.jpg)
