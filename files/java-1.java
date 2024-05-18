@@ -46,7 +46,7 @@ class staff {
 	{Kio, Media}, {Auvrie, Media}, {Fortelling, Builder}};
 
 	String canJoinStaff(String application) {
-    // There are 4 different types of applications: staff, builder, media and qa. 
+    		// There are 4 different types of applications: staff, builder, media and qa. 
 		// If application does not fall under any of these, then return "Not a position at violets"
 	}
 
@@ -73,7 +73,7 @@ class staff {
 //   - - - - - - - - Exercise 1.3: Calculator - - - - - - - -
 
 class calculator {
-  String count(int num1, char operator, int num2) {
+	String count(int num1, char operator, int num2) {
 		// check if operator is valid, else return error (and correct error message)
 
 		// if valid: add cases for each of the math equations (for each of the valid operators)
