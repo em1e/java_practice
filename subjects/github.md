@@ -3,9 +3,8 @@
 
 Open up (github)[https://github.com/] on your browser and create a new account. There are some images below to help out.
 
-!(home)[../images/github_home.png]
-!(new account creation)[../images/new_account.png]
-!(local vs remote)[../images/Github-local-vs-remote.jpg]
+!(home)[https://github.com/em1e/java_practice/blob/main/images/github_home.png]
+!(new account creation)[https://github.com/em1e/java_practice/blob/main/images/new_account.png]
 
 for the following execises some useful links include:
 - (what are git and github?)[https://www.youtube.com/watch?v=DVRQoVRzMIY]
@@ -34,7 +33,7 @@ In this exercise you are supposed to create a repository and understand what git
 
 *step 2.* Clone the repo using the ssh tab
 copy the link through
-!(ssh github)[../images/ssh.png]
+!(ssh github)[https://github.com/em1e/java_practice/blob/main/images/ssh.png]
 and run:
 ```
 git clone <link>
@@ -47,12 +46,14 @@ You can write whatever you want into it, just write something.
 *step 4.* add, commit and push.
 Using the instructions in above and online, try to figure out how this is done and successfully push your local changes into your github repository online.
 
+!(local vs remote)[https://github.com/em1e/java_practice/blob/main/images/Github-local-vs-remote.jpg]
+
 # Exercise 3: Forks
 
 Using knowledge from exercise 2, you can now go to (java_practice repo)[https://github.com/em1e/java_practice] and fork it.
 - forks are clones off of repositories from other people.
 
-!(home)[../images/fork.png]
+!(fork)[https://github.com/em1e/java_practice/blob/main/images/fork.png]
 
 > [!NOTE]
 > Keep in mind to create branches and push the changes into them.

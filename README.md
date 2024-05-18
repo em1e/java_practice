@@ -14,7 +14,7 @@ This is a cute lil repo for those in QA that actually want to improve and get go
 There are more topics comming soon... (give me a bit okay D:)
 
 > [!NOTE]
-> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow (the github execises)[subjects/github.md] instead of following the steps in "getting started".
+> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow (the github execises)[https://github.com/em1e/java_practice/blob/main/subjects/github.md] instead of following the steps in "getting started".
 
 <details>
 <summary>Getting started</summary>
@@ -62,7 +62,7 @@ A terminal is simply a text-based interface to the computer. In a terminal, you 
 | cp SOURCE TARGET	| Copy SOURCE to TARGET | `cp new_folder/instructions.txt another_folder/.` |
 | rm TARGET	| remove TARGET | `rm new_folder/instructions.txt` |
 
-If you wish to practice terminal commands, then start with exercises in `subjects/dev-setup.md` and `subjects/github.md`. Remember that google is your best friend, if unsure then ask anotehr QA member.
+If you wish to practice terminal commands, then start with exercises in (`subjects/dev-setup.md`)[https://github.com/em1e/java_practice/blob/main/subjects/dev-setup.md] and (`subjects/github.md`)[https://github.com/em1e/java_practice/blob/main/subjects/github.md]. Remember that google is your best friend, if unsure then ask anotehr QA member.
 
 </details><details>
 
