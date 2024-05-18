@@ -10,7 +10,7 @@ You can find the java file with the outlines at `../files/java-1.java`, so head 
 
 ***
 
-## Exercise 1: Can James the gorf be saved?
+## Exercise 1.1: Can James the gorf be saved?
 
 Create a class that returns a boolean to if james the gorf is alive or not. Below you can read some of the tasks the class should do, they are also stated in the java file:
 
@@ -22,7 +22,7 @@ and more.
 
 ***
 
-## Exercise 2: Staff member list
+## Exercise 1.2: Staff member list
 
 Create a class with a few methods, each doing their own thing. Below you can read some of the tasks the class should do, they are also stated in the java file:
 
