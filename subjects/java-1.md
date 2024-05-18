@@ -1,6 +1,4 @@
-<summary>What if I don't know java? or any coding?</summary>
-
-## What if I don't know java or any coding? Am bad at math?
+# What if I don't know java or any coding? Am bad at math?
 
 There really isn't any requirements to learning how to code. It's just a bit of problem solving and logical thinking. If you know how simple addition and logically speakig how to divide and multiply things then you're set.
 
@@ -12,7 +10,7 @@ You can find the java file with the outlines at `../files/java-1.java`, so head 
 
 ***
 
-# Exercise 1: Staff member list
+## Exercise 1: Staff member list
 
 Create a class with a few methods, each doing their own thing. Below you can read some of the tasks the class should do, they are also stated in the java file:
 
@@ -23,13 +21,14 @@ Create a class with a few methods, each doing their own thing. Below you can rea
 
 ***
 
-# Exercise 2: Can James the gorf be saved?
+## Exercise 2: Can James the gorf be saved?
 
 Create a class that returns a boolean to if james the gorf is alive or not. Below you can read some of the tasks the class should do, they are also stated in the java file:
 
 - Is it kidnapped by james? if not, then return "It already is safe"
 - Is it found by players or staff? if yes, then check facts, else we don't know where gorf is.
 - Did mie try saving it? if yes, then dead
+
 and more.
 
 ***
