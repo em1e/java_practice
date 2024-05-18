@@ -11,6 +11,7 @@ This is a cute lil repo for those in QA that actually want to improve and get go
 - [X] java-1.md (not fully done)
 - [ ] java-2.md
 - [ ] java-3.md
+
 There are more topics comming soon... (give me a bit okay D:)
 
 ***
