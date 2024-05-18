@@ -12,7 +12,7 @@ This is a cute lil repo for those in QA that actually want to improve and get go
 - [ ] java-2.md
 - [ ] java-3.md
 
-There are more topics comming soon... give me a bit okay D:
+There are more topics coming soon... give me a bit okay D:
 
 ***
 
