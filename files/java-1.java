@@ -6,8 +6,8 @@ class Gorf {
 	boolean mieHere = true;
 	// feel free to add anything else you feel like could be added into this 
 
-  public static Boolean isKidnapped(boolean jamesHere) {
-    // has james found it or not?
+	public static boolean isKidnapped(boolean jamesHere) {
+   		 // has james found it or not?
 	}
 
 	public static boolean isFound(boolean found) {
@@ -29,7 +29,7 @@ class Gorf {
 			// return "Gorf is already safe"
 		}
 	}
-	isJamesTheGorfSafe(jamesHere, found, mieHere)
+	isJamesTheGorfSafe(jamesHere, found, mieHere);
 	// remember to call the correct functions!
 }
 
