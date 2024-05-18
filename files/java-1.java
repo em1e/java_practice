@@ -7,19 +7,19 @@ class Gorf {
 	boolean mieHere = true;
 	// feel free to add anything else you feel like could be added into this 
 
-	boolean isKidnapped(boolean jamesHere) {
+	public boolean isKidnapped(boolean jamesHere) {
    		 // has james found it or not?
 	}
 
-	boolean isFound(boolean found) {
+	public boolean isFound(boolean found) {
 		// has gorf been found yet
 	}
 
-	boolean mieSaving(boolean mieHere) {
+	public boolean mieSaving(boolean mieHere) {
 		//  has mie tried saving gorf yet
 	}
 
-	String isJamesTheGorfSafe(boolean jamesHere, boolean found, boolean mieHere) {
+	public String isJamesTheGorfSafe(boolean jamesHere, boolean found, boolean mieHere) {
 		if (isKidnapped(jamesHere) == true) {
 			// has it been found? else return "Gorf not found yet"
 			// has mie tried saving it? if yes then return "Gorf is dead"
@@ -45,16 +45,16 @@ class staff {
 	{Danny, Helper}, {Tato, Helper}, {Kiri, Helper}, {Thunder, Helper}, 
 	{Kio, Media}, {Auvrie, Media}, {Fortelling, Builder}};
 
-	String canJoinStaff(String application) {
+	public String canJoinStaff(String application) {
     		// There are 4 different types of applications: staff, builder, media and qa. 
 		// If application does not fall under any of these, then return "Not a position at violets"
 	}
 
-	int howManyStaff() {
+	public int howManyStaff() {
 		// return the amount of staff members in StaffMembers
 	}
 
-	String isStaffMember(String playerName) {
+	public String isStaffMember(String playerName) {
 		// make a loop that checks if playerName equals any of staffMembers[x][0],
 		// or any of the names in the 2d array
 
@@ -62,7 +62,7 @@ class staff {
 		// or make up your own return message!
 	}
 
-	String roleOf(String PlayerName) {
+	public String roleOf(String PlayerName) {
 		// make a loop that checks if playerName equals any of staffMembers[x][0],
 		// or any of the names in the 2d array.
 		// if the player is a staff member then return their role, else return that they are a member.
