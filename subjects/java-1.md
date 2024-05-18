@@ -16,7 +16,7 @@ You can find the java file with the outlines at `../files/java-1.java`, so head 
 
 Create a class with a few methods, each doing their own thing. Below you can read some of the tasks the class should do, they are also stated in the java file:
 
-- Print out how many helpers and mods there are on teh satff team.
+- Print out how many helpers and mods there are on the staff team.
 - Print out how many many managers there are.
 - Print out a staff members name at x position on an array.
 - Able to find out what role a staff member has.
