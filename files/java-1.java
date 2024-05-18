@@ -48,6 +48,7 @@ class staff {
 	public String canJoinStaff(String application) {
 		// There are 4 different types of applications: staff, builder, media and qa. 
 		// If application does not fall under any of these, then return "Not a position at violets"
+  // fyi. only 3 out of the 4 applications are open, refer back to violets discord for more information
 	}
 
 	public int howManyStaff() {
