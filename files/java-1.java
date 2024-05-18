@@ -8,15 +8,15 @@ class Gorf {
 	// feel free to add anything else you feel like could be added into this 
 
 	boolean isKidnapped(boolean jamesHere) {
-   		 // has james found it or not?
+   		 // has james found and kidnapped it or not?
 	}
 
 	boolean isFound(boolean found) {
-		// has gorf been found yet
+		// has gorf been found by anyone else yet?
 	}
 
 	boolean mieSaving(boolean mieHere) {
-		//  has mie tried saving gorf yet
+		//  has mie tried saving gorf?
 	}
 
 	String isJamesTheGorfSafe(boolean jamesHere, boolean found, boolean mieHere) {
