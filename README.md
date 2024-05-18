@@ -13,11 +13,11 @@ This is a cute lil repo for those in QA that actually want to improve and get go
 - [ ] java-3.md
 There are more topics comming soon... (give me a bit okay D:)
 
+> [!NOTE]
+> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow (the github execises)[subjects/github.md] instead of following the steps in "getting started".
+
 <details>
 <summary>Getting started</summary>
-
-> [!NOTE]
-> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow (the github execises)[subjects/github.md] instead of following the 3 steps below.
 
 ### step 1. 
 Open Terminal. Google how to do that on your device.
