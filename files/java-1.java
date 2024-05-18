@@ -35,7 +35,7 @@ class Gorf {
 
 //   - - - - - - - - Exercise 2: Staff member list - - - - - - - -
 
-class staffMembersList {
+class staff {
 	String[][] StaffMembers = {{James, Manager},
 	{Lunar, Manager}, {Ryan, Manager}, 
 	{Mie, LT}, {Flaym, LT}, {Chloe, LT}, 
@@ -44,27 +44,27 @@ class staffMembersList {
 	{Danny, Helper}, {Tato, Helper}, {Kiri, Helper}, {Thunder, Helper}, 
 	{Kio, Media}, {Auvrie, Media}, {Fortelling, Builder}};
 
-  public static String canJoinStaff(String application) {
-    // There are 4 different types of applications: staff, builder, media and qa. 
+  	public static String canJoinStaff(String application) {
+    		// There are 4 different types of applications: staff, builder, media and qa. 
 		// If application does not fall under any of these, then return "Not a position at violets"
 	}
 
 	public static int howManyStaff() {
-			// return the amount of staff members in StaffMembers
+		// return the amount of staff members in StaffMembers
 	}
 
 	public static String isStaffMember(String playerName) {
-			// make a loop that checks if playerName equals any of staffMembers[x][0],
-			// or any of the names in the 2d array
+		// make a loop that checks if playerName equals any of staffMembers[x][0],
+		// or any of the names in the 2d array
 
-			// return a string, either something like "yes, " + playerName + "is a staff member."
-			// or make up your own return message!
+		// return a string, either something like "yes, " + playerName + "is a staff member."
+		// or make up your own return message!
 	}
 
 	public static String roleOf(String PlayerName) {
-			// make a loop that checks if playerName equals any of staffMembers[x][0],
-			// or any of the names in the 2d array.
-			// if the player is a staff member then return their role, else return that they are a member.
+		// make a loop that checks if playerName equals any of staffMembers[x][0],
+		// or any of the names in the 2d array.
+		// if the player is a staff member then return their role, else return that they are a member.
 	}
 	// remember to call the correct functions!
 }
