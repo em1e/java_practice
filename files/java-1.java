@@ -1,4 +1,4 @@
-//  - - - - - - Exercise 1: Can James the gorf be saved? - - - - - -
+//  - - - - - - Exercise 1.1: Can James the gorf be saved? - - - - - -
 
 class Gorf {
 	boolean jamesHere = true;
@@ -33,7 +33,7 @@ class Gorf {
 	// remember to call the correct functions!
 }
 
-//   - - - - - - - - Exercise 2: Staff member list - - - - - - - -
+//   - - - - - - - - Exercise 1.2: Staff member list - - - - - - - -
 
 class staff {
 	String[][] StaffMembers = {{James, Manager},
