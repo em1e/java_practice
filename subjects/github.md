@@ -5,6 +5,7 @@ Open up [github](https://github.com/) on your browser and create a new account. 
 
 ![home](https://github.com/em1e/java_practice/blob/main/images/github_home.png)
 ![new account creation](https://github.com/em1e/java_practice/blob/main/images/new_account.png)
+![local vs remote](https://github.com/em1e/java_practice/blob/main/images/Github-local-vs-remote.jpg)
 
 for the following execises some useful links include:
 - [what are git and github?](https://www.youtube.com/watch?v=DVRQoVRzMIY)
