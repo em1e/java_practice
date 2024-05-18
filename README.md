@@ -16,7 +16,7 @@ There are more topics comming soon... (give me a bit okay D:)
 ***
 
 > [!NOTE]
-> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow [the github execises](https://github.com/em1e/java_practice/blob/main/subjects/github.md) instead of following the steps in "getting started".
+> If you wish to edit the file and and push the changes into your own github, then it is highly suggested to follow [the github execises](https://github.com/em1e/java_practice/blob/main/subjects/github.md) instead of following the steps below.
 
 ## Getting started
 
@@ -26,14 +26,14 @@ Google how to do that on your device.
 ### step 2. Navigate inside your terminal to where you want to java_practice folder to be at.
 Refer to "How to use terminal?" guide below for more information on how to do this. If unsure where it should be, then Desktop is alwasy a good choice. This can be compleated using `cd`, `pwd`, and `ls`.
 
-### step 3. 
+### step 3. Clone the repository
 Run the following two commands in terminal:
 ```
 git clone https://github.com/em1e/java_practice.git
 cd java_practice
 ```
 
-Now the repository/folder should be downloaded, and you can start working on the execises. Below you can find some helpful guides on how to do things code related, if you have any questions, then dm me (mie) on discord.
+Woo!! Now the repository/folder should be downloaded, and you can start working on the execises. Below you can find some helpful guides on how to do things code related, if you have any questions then dm me (mie) on discord.
 
 ***
 
