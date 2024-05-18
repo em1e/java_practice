@@ -7,15 +7,15 @@ class Gorf {
 	boolean mieHere = true;
 	// feel free to add anything else you feel like could be added into this 
 
-	boolean isKidnapped(boolean jamesHere) {
+	public boolean isKidnapped(boolean jamesHere) {
    		 // has james found and kidnapped it or not?
 	}
 
-	boolean isFound(boolean found) {
+	public boolean isFound(boolean found) {
 		// has gorf been found by anyone else yet?
 	}
 
-	boolean mieSaving(boolean mieHere) {
+	public boolean mieSaving(boolean mieHere) {
 		//  has mie tried saving gorf?
 	}
 
