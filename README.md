@@ -1,7 +1,7 @@
 # java_practice
 ***
 
-This is a cute lil repo for those in QA that actually want to imrove and get good at java. There are execises for beginner to more intermediate level. 
+This is a cute lil repo for those in QA that actually want to improve and get good at java. There are execises for beginner to more intermediate level. 
 
 `/files` is a folder for each of the java files. Especially in the beginning when you have no idea what you're doing, they will help you and give some pointers on what to do, or give an outline on the function you're wokring on.
 
@@ -13,11 +13,11 @@ This is a cute lil repo for those in QA that actually want to imrove and get goo
 - [ ] java-3.md
 There are more topics comming soon... (give me a bit okay D:)
 
-> [!NOTE]
-> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow (the github execises)[subjects/github.md] instead of following the 3 steps in "Getting started".
-
 <details>
 <summary>Getting started</summary>
+
+> [!NOTE]
+> If you wish to edit the file in the future and push your changes into your own github, then it is highly suggested to follow (the github execises)[subjects/github.md] instead of following the 3 steps below.
 
 ### step 1. 
 Open Terminal. Google how to do that on your device.
@@ -62,15 +62,17 @@ A terminal is simply a text-based interface to the computer. In a terminal, you 
 | cp SOURCE TARGET	| Copy SOURCE to TARGET | `cp new_folder/instructions.txt another_folder/.` |
 | rm TARGET	| remove TARGET | `rm new_folder/instructions.txt` |
 
-If you wish to practice terminal commands, then start with exercises in `subjects/terminal.md` and `subjects/github.md`. Remember that google is your best friend, if unsure then ask anotehr QA member.
+If you wish to practice terminal commands, then start with exercises in `subjects/dev-setup.md` and `subjects/github.md`. Remember that google is your best friend, if unsure then ask anotehr QA member.
 
 </details><details>
 
-<summary>What if I don't know java?</summary>
+<summary>What if I don't know java? or any coding?</summary>
 
-For you to do these exercises try to get familiar with the syntax first, or refer back to any of the free resources online. There are ones like (w3schools)[https://www.w3schools.com/java/], (execism)[https://exercism.org/tracks/java], (codeacademy)[https://www.codecademy.com/catalog/language/java], (javatpoint)[https://www.javatpoint.com/java-tutorial], and so many more you could use.
+## Unsure if you're good enough to start coding in java?
 
-Ofc ask for help if you need it, but google is also a friend that knows a lot.
+There really isn't any requirements to learning how to code. It's just a bit of problem solving and logical thinking.
+
+Before you start the java exorcises it would be good to be familiar with the syntax first, or to refer back to any of the free resources online while working on them. There are ones like (w3schools)[https://www.w3schools.com/java/], (execism)[https://exercism.org/tracks/java], (codeacademy)[https://www.codecademy.com/catalog/language/java], (javatpoint)[https://www.javatpoint.com/java-tutorial], and so many more you could use.
 
 </details>
 
