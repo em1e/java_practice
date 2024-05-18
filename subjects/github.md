@@ -44,7 +44,7 @@ cd my-first-repo
 You can write whatever you want into it, just write something.
 
 **step 4.** add, commit and push.
-Using the instructions in above and online, try to figure out how this is done and successfully push your local changes into your github repository online.
+Using the [instructions](https://www.youtube.com/watch?v=DVRQoVRzMIY) above and found online, try to figure out how this is done and successfully push your local changes into your github repository online. 
 
 ![local vs remote](https://github.com/em1e/java_practice/blob/main/images/Github-local-vs-remote.jpg)
 
