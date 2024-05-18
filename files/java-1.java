@@ -1,6 +1,7 @@
 //  - - - - - - Exercise 1.1: Can James the gorf be saved? - - - - - -
 
 class Gorf {
+	// these booleans can be changed when testing
 	boolean jamesHere = true;
 	boolean found = true;
 	boolean mieHere = true;
@@ -19,7 +20,7 @@ class Gorf {
 	}
 
 	public static String isJamesTheGorfSafe(boolean jamesHere, boolean found, boolean mieHere) {
-		if (isKidnapped(jamesHere)) {
+		if (isKidnapped(jamesHere) == true) {
 			// has it been found? else return "Gorf not found yet"
 			// has mie tried saving it? if yes then return "Gorf is dead"
 			// anything else then return "Gorf is safe"
@@ -30,7 +31,7 @@ class Gorf {
 		}
 	}
 	isJamesTheGorfSafe(jamesHere, found, mieHere);
-	// remember to call the correct functions!
+	// remember to call the correct functions
 }
 
 //   - - - - - - - - Exercise 1.2: Staff member list - - - - - - - -
@@ -66,5 +67,18 @@ class staff {
 		// or any of the names in the 2d array.
 		// if the player is a staff member then return their role, else return that they are a member.
 	}
-	// remember to call the correct functions!
+	// remember to call the correct functions
+}
+
+//   - - - - - - - - Exercise 1.3: Calculator - - - - - - - -
+
+class calculator {
+  String count(int num1, char operator, int num2) {
+		// check if operator is valid, else return error (and correct error message)
+
+		// if valid: add cases for each of the math equations (for each of the valid operators)
+		
+		// else check: operator = null, operator = "" and else throw that it doens't exist
+	}
+	// remember to call the correct functions
 }

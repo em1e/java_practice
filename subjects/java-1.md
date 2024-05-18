@@ -32,3 +32,15 @@ Create a class with a few methods, each doing their own thing. Below you can rea
 - Able to find out what role a staff member has.
 
 ***
+
+## Exercise 1.3: Calculator
+
+Create a calculator that can add, subtract, multiply and divide two numbers, as well as put num1 to the power of num2, and returns the correct value. Below you can read some of the tasks the class should do, they are also stated in the java file:
+
+- addition
+- subtraction
+- multiplication
+- division
+- power of
+
+***
