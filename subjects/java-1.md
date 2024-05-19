@@ -12,11 +12,12 @@ You can find the java file with the outlines at `../files/java-1.java`, so head 
 
 ## Exercise 1.1: Can James the gorf be saved?
 
-Create a class that returns a boolean to if james the gorf is alive or not. Below you can read some of the tasks the class should do, they are also stated in the java file:
+Create a class that returns a boolean to if james the gorf is alive or not. Below you can read some of the tasks the isJamesTheGorfSafe method should do, they are also stated in the java file:
 
-- Is it kidnapped by james? if not, then return "It already is safe"
-- Is it found by players or staff? if yes, then check facts, else we don't know where gorf is.
-- Did mie try saving it? if yes, then dead
+- If gorf has been found by james, then it has been kidnapped.
+- if mie has arrived, then gorf is dead.
+- but if it has only been found by players and mie is not there then it is safe.
+- if it has not been found by anyone then gorf has not been found yet.
 
 and more.
 

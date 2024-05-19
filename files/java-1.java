@@ -15,19 +15,14 @@ class Gorf {
 		// has gorf been found by anyone else yet?
 	}
 
-	public boolean mieSaving(boolean mieHere) {
-		//  has mie tried saving gorf?
-	}
-
 	public String isJamesTheGorfSafe(boolean jamesHere, boolean found, boolean mieHere) {
 		if (isKidnapped(jamesHere) == true) {
-			// has it been found? else return "Gorf not found yet"
-			// has mie tried saving it? if yes then return "Gorf is dead"
+			// If gorf has been found by james, then it has been kidnapped.
 			// anything else then return "Gorf is safe"
 		} else if (isFound(found) /* and mie is not here */) {
-			// return "Gorf is already safe"
+			// if it has only been found by players and mie is not there then it is safe.
 		} else {
-			// return "Gorf is already safe"
+			// if it has not been found by anyone then gorf has not been found yet, and is safe.
 		}
 	}
 	return isJamesTheGorfSafe(jamesHere, found, mieHere);
